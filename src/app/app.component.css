@@ -2,11 +2,11 @@ p {
   font-family: Lato;
 }
 
-home-header{
+home-header div{
   height:calc(100vh - 100px);
   width: 100%;
   background-color:#111127; 
 }
-home-header img{
+home-header div img{
   height:calc(100vh - 100px);
 }
