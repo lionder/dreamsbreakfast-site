@@ -4,6 +4,8 @@ p {
 
 home-header{
   height:calc(100vh - 100px);
+  width: 100%;
+  background-color:#111127; 
 }
 home-header img{
   height:calc(100vh - 100px);
