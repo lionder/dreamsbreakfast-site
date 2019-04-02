@@ -3,11 +3,7 @@ p {
 }
 
 home-header{
-  height:calc(100vh - 100px);
-  width: 100%;
+  height:fit-content;
+  width: 100vw;
   background-color:#111127; 
-}
-.header-img{
-  height:calc(100vh - 100px);
-  width:100vw;
 }
