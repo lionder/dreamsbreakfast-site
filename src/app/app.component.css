@@ -4,5 +4,6 @@ p {
 
 header{
   height:40vh;
-  background-image: url('assets/img/logoWIP13.jpg')
+  background-image: url('https://firebasestorage.googleapis.com/v0/b/dreamsbreakfast-ab859.appspot.com/o/img%2FlogoWIP13.png?alt=media&token=d11748a0-9dcd-408b-bd8e-98c9b349abd9');
+  background-size:cover;
 }
