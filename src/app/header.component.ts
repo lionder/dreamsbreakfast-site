@@ -1,9 +1,8 @@
 import { Component, Input } from '@angular/core';
 
 @Component({
-  selector: 'header',
-  template: `<h1>HEADER</h1>`,
-  styles: [`h1 { font-family: Lato; }`]
+  selector: 'home-header',
+  templateUrl: './header.component.html'
 })
 export class HeaderComponent  {
   
