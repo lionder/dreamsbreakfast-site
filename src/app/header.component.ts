@@ -4,9 +4,10 @@ import { Component, Input } from '@angular/core';
   selector: 'home-header',
   templateUrl: `./header.component.html`,
   styles:[`
-  .header-img{
-    max-height:calc(100vh - 100px);
-    width:auto;
+  ngbd-carousel{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
   }`]
 })
 export class HeaderComponent  {

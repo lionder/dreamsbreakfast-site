@@ -5,5 +5,5 @@ import { Component } from '@angular/core';
   templateUrl: './carousel.component.html'
 })
 export class NgbdCarouselComponent {
-  images = [1, 2, 3].map(() => `https://picsum.photos/900/500?random&t=${Math.random()}`);
+  images = [`https://firebasestorage.googleapis.com/v0/b/dreamsbreakfast-ab859.appspot.com/o/img%2FlogoWIP13.png?alt=media&token=d11748a0-9dcd-408b-bd8e-98c9b349abd9`];
 }
